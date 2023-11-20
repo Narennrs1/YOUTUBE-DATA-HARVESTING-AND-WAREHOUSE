@@ -1,3 +1,5 @@
+Linkedin - https://www.linkedin.com/in/narayana-ram-sekar-b689a9201/
+
 YOUTUBE DATA HARVESTING AND WAREHOUSING 
 
 The Project namely YouTube data harvesting and Warehousing is a social-media domain. where a streamlit application is used to build a straightforward and user-friendly online user interface. The goal of the project is to use the channel ID to access the web application and display the YouTube channel data. The web application is the final product to which the user has access. To make it feasible, the project makes use of a numberous of programmes, including Python, PostgreSQL, MongoDB, and Streamlit.
